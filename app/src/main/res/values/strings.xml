@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Play Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_add_red_fragment">Add Red Fragment Dynamically</string>
+    <string name="text_replace_red_to_color">Replace Red Fragment to Color Fragment</string>
+    <string name="text_cyan">Cyan</string>
+    <string name="text_green">Green</string>
+    <string name="text_yellow">Yellow</string>
+</resources>
